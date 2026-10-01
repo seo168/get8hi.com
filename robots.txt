@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://get8hi.com
+Sitemap: https://get8hi.com/sitemap.xml

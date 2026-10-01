@@ -1,0 +1,21 @@
+{
+  "name": "Get 8HI",
+  "short_name": "8HI",
+  "description": "Official 8HI app and game information.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#170607",
+  "theme_color": "#ff8a2b",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
